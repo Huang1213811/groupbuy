@@ -12,3 +12,8 @@
 
 前端项目详见 https://github.com/cornerbear/groupbuy_Vue  
 
+、输入命令npm install，重新安装依赖。
+
+、输入命令npm run build 打包。
+
+、最后输入命令npm run dev/npm run serve（或者npm rum xxx）后项目成功运行。
