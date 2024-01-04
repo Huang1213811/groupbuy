@@ -13,6 +13,7 @@
                 </el-button> -->
             </el-card>
         </div>
+
         <el-table :data="table.records" border style="width: 100%" :fit="true">
             <el-table-column prop="id" label="订单号">
             </el-table-column>
