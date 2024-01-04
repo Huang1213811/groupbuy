@@ -12,6 +12,7 @@
                     生成订单
                 </el-button> -->
             </el-card>
+
         </div>
 
         <el-table :data="table.records" border style="width: 100%" :fit="true">
