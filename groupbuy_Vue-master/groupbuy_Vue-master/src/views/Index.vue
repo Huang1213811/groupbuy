@@ -37,12 +37,6 @@
             <router-view :key="Math.random()"></router-view>
           </el-main>
           <el-footer>
-            <div>
-              Copyright © 2021 zhangxiaojian
-            </div>
-            <div>
-              Powered by Java 1.8 And vue-cli v4.5.11
-            </div>
           </el-footer>
         </el-container>
       </el-container>
